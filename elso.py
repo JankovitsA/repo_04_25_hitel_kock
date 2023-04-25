@@ -4,3 +4,5 @@ def barmi(a,x):
 
 def jajjnekem(a):
     return a
+
+print(jajjnekem("jajjjajj"))
